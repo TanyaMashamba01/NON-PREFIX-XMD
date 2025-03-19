@@ -24,12 +24,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": false,
-      "value": "BRUCE BERA"
+      "value": "Joshuamambomzm"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": false,
-      "value": "254743982206"
+      "value": "263716985350"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -74,7 +74,7 @@
     "STATUS_READ_MSG": {
       "description": "Set the message bot sends after viewing a status",
       "required": false,
-      "value": "*Status Seen*"
+      "value": "*Status yawonekwa mahara Seen*"
     },
     "AUTO_BLOCK": {
       "description": "Enable bot to auto-block specific numbers (true/false)",
